@@ -12,6 +12,8 @@
 
 **Models implemented:** ARIMA, LSTM, XGBoost models.
 
+**Upwork gig link:** [Upwork gig link](https://www.upwork.com/jobs/~01e8bd802823c9cd1d)
+
 **Datasets used:**
 [Air Passengers dataset](https://www.kaggle.com/datasets/rakannimer/air-passengers)
 [Google Web Traffic Time Series Forecasting](https://www.kaggle.com/competitions/web-traffic-time-series-forecasting/rules)
@@ -33,7 +35,6 @@ Below is a brief description of how the 90-day prediction in posterior predictiv
 4. **Visualization**: Tried to plot the mean and confidence intervals (e.g., 95% CI) of the predictions to visualize the uncertainty.
 However, for my particular dataset I found that there is little to no variability in my predictions across simulations.
 
-[Upwork gig link](https://www.upwork.com/jobs/~01e8bd802823c9cd1d)
 
 ## Screenshots:
 
