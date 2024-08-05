@@ -3,8 +3,9 @@
 
 ## Table of Contents:
 - [About](#about)
+- [Screenshots](#screenshots)
 - [Insights obtained](#insights-obtained)
-- [Notes](#notes)
+
 
 ## About:
 **Description:** needs to add a 90-day prediction in posterior predictive distribution
@@ -13,10 +14,13 @@
 
 ## Screenshots:
 ![LSTM model fitting the data](https://github.com/user-attachments/assets/3d74e39c-0714-41bb-a10f-c15ba86bf73b)
+**LSTM model fitting the data**
 
 ![Evaluation metrics for LSTM](https://github.com/user-attachments/assets/bf068d11-081e-4294-bcfb-b00659a67f86)
+**Evaluation metrics for LSTM**
 
 ![LSTM 90-day prediction](https://github.com/user-attachments/assets/045f760b-767d-4d8e-8922-812437d3e400)
+**LSTM 90-day prediction**
 
 ## Insights obtained:
 **Note: This section of the README includes only my learnings from project implementation.**
