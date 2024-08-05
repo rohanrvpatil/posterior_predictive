@@ -14,25 +14,17 @@
 
 ## Screenshots:
 
-<p align="center">
 ![LSTM model fitting the data](https://github.com/user-attachments/assets/3d74e39c-0714-41bb-a10f-c15ba86bf73b)
-</p>
-<p align="center">
-  <mark>LSTM model fitting the data<mark>
-</p>
+<mark>LSTM model fitting the data<mark>
 
 
 ![Evaluation metrics for LSTM](https://github.com/user-attachments/assets/bf068d11-081e-4294-bcfb-b00659a67f86)
 
-<p align="center">
-  <mark>Evaluation metrics for LSTM<mark>
-</p>
+<mark>Evaluation metrics for LSTM<mark>
 
 
 ![LSTM 90-day prediction](https://github.com/user-attachments/assets/045f760b-767d-4d8e-8922-812437d3e400)
-<p align="center">
-  <mark>LSTM 90-day prediction<mark>
-</p>
+<mark>LSTM 90-day prediction<mark>
 
 
 ## Insights obtained:
