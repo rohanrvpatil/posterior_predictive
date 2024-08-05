@@ -12,6 +12,7 @@ Upwork gig link: https://www.upwork.com/jobs/~01e8bd802823c9cd1d
 - [Notes](#notes)
 
 
+
 Insights:
 Best 3 sophisticated methods to solve this time series problem are LSTM, GNN, ARCH
 
@@ -40,7 +41,7 @@ This is an example of a full page name. We need to extract only page name from h
 page name = !vote_en.wikipedia.org_all-access_all-agents
 
 
-
+## Installation
 Working with time series data:
 1) Importing data
 2) Visualizing the data with outliers using line chart
