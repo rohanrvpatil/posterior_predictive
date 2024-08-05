@@ -15,7 +15,9 @@
 ## Screenshots:
 
 <p align="center">
-   ![LSTM model fitting the data](https://github.com/user-attachments/assets/3d74e39c-0714-41bb-a10f-c15ba86bf73b)
+![LSTM model fitting the data](https://github.com/user-attachments/assets/3d74e39c-0714-41bb-a10f-c15ba86bf73b)
+</p>
+<p align="center">
   <mark>LSTM model fitting the data<mark>
 </p>
 
