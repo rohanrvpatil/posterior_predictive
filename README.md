@@ -10,6 +10,29 @@
 ## About:
 **Description:** needs to add a 90-day prediction in posterior predictive distribution
 
+**Models implemented:** ARIMA, LSTM, XGBoost models.
+
+**Datasets used:**
+[Air Passengers dataset](https://www.kaggle.com/datasets/rakannimer/air-passengers)
+[Google Web Traffic Time Series Forecasting](https://www.kaggle.com/competitions/web-traffic-time-series-forecasting/rules)
+
+### Overview
+In this project, I have implemented a 90-day forecast using an LSTM model trained on time series data. To account for uncertainty in the predictions, I utilized a Monte Carlo simulation approach to generate the posterior predictive distribution.
+
+### Methodology
+1. **LSTM Model**: Trained a Long Short-Term Memory (LSTM) model to capture the temporal dependencies in the data.
+2. **Monte Carlo Simulation**: Used Monte Carlo dropout to generate multiple predictions from the LSTM model. This helps in capturing the variability and uncertainty in the model's predictions.
+3. **Posterior Predictive Distribution**: Aggregated the multiple predictions to form the posterior predictive distribution, providing a range of possible outcomes for the next 90 days.
+
+### Implementation
+Below is a brief description of how the 90-day prediction in posterior predictive distribution was implemented:
+
+1. **Training the LSTM Model**: The LSTM model was trained on historical data to learn the temporal patterns.
+2. **Monte Carlo Model**: Created a Monte Carlo model with dropout layers active during inference to generate multiple prediction samples.
+3. **Generating Predictions**: Generated predictions for the next 90 days using the Monte Carlo model, resulting in a distribution of predictions for each day.
+4. **Visualization**: Tried to plot the mean and confidence intervals (e.g., 95% CI) of the predictions to visualize the uncertainty.
+However, for my particular dataset I found that there is little to no variability in my predictions across simulations.
+
 [Upwork gig link](https://www.upwork.com/jobs/~01e8bd802823c9cd1d)
 
 ## Screenshots:
