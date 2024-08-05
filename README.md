@@ -15,14 +15,17 @@
 ## Screenshots:
 
 <mark><strong>LSTM model fitting the data</strong><mark>
+
 ![LSTM model fitting the data](https://github.com/user-attachments/assets/3d74e39c-0714-41bb-a10f-c15ba86bf73b)
 
 
 <mark><strong>Evaluation metrics for LSTM</strong><mark>
+
 ![Evaluation metrics for LSTM](https://github.com/user-attachments/assets/bf068d11-081e-4294-bcfb-b00659a67f86)
 
 
 <mark><strong>LSTM 90-day prediction</strong><mark>
+
 ![LSTM 90-day prediction](https://github.com/user-attachments/assets/045f760b-767d-4d8e-8922-812437d3e400)
 
 
