@@ -19,6 +19,10 @@
 [Air Passengers dataset](https://www.kaggle.com/datasets/rakannimer/air-passengers)
 [Google Web Traffic Time Series Forecasting](https://www.kaggle.com/competitions/web-traffic-time-series-forecasting/rules)
 
+
+**Note:** I have added the other models I have worked on in the "Other models" folder. The LSTM code is in lstm_airp.ipynb.
+The model exported has the name "lstm_air_passengers.h5"
+
 ### Overview
 In this project, I have implemented a 90-day forecast using an LSTM model trained on time series data. To account for uncertainty in the predictions, I utilized a Monte Carlo simulation approach to generate the posterior predictive distribution.
 
