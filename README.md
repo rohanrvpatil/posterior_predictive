@@ -1,19 +1,20 @@
-Description: needs to add a 90-day prediction in posterior predictive distribution
 
-Upwork gig link: https://www.upwork.com/jobs/~01e8bd802823c9cd1d
 
 
 
 ## Table of Contents
-- [Introduction](#introduction)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
+- [About](#about)
+- [Insights obtained](#insights)
 - [Notes](#notes)
 
+## About
+Description: needs to add a 90-day prediction in posterior predictive distribution
+
+[Upwork gig link](https://www.upwork.com/jobs/~01e8bd802823c9cd1d)
 
 
-Insights:
+
+## Insights obtained:
 Best 3 sophisticated methods to solve this time series problem are LSTM, GNN, ARCH
 
 
