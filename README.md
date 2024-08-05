@@ -16,15 +16,11 @@
 
 **Datasets used:**
 [Air Passengers dataset](https://www.kaggle.com/datasets/rakannimer/air-passengers)
+
 [Google Web Traffic Time Series Forecasting](https://www.kaggle.com/competitions/web-traffic-time-series-forecasting/rules)
 
 ### Overview
 In this project, I have implemented a 90-day forecast using an LSTM model trained on time series data. To account for uncertainty in the predictions, I utilized a Monte Carlo simulation approach to generate the posterior predictive distribution.
-
-### Methodology
-1. **LSTM Model**: Trained a Long Short-Term Memory (LSTM) model to capture the temporal dependencies in the data.
-2. **Monte Carlo Simulation**: Used Monte Carlo dropout to generate multiple predictions from the LSTM model. This helps in capturing the variability and uncertainty in the model's predictions.
-3. **Posterior Predictive Distribution**: Aggregated the multiple predictions to form the posterior predictive distribution, providing a range of possible outcomes for the next 90 days.
 
 ### Implementation
 Below is a brief description of how the 90-day prediction in posterior predictive distribution was implemented:
@@ -109,6 +105,7 @@ page name = !vote_en.wikipedia.org_all-access_all-agents
 
 **Example of an ideal LSTM, parameters for time series:**
 
+```python
 model = Sequential([
     Input(shape=(SEQ_LENGTH, 1)),
     LSTM(128, return_sequences=True, activation='tanh'),
