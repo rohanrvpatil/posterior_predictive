@@ -4,7 +4,7 @@
 
 ## Table of Contents
 - [About](#about)
-- [Insights obtained](#insights)
+- [Insights obtained](#insights-obtained)
 - [Notes](#notes)
 
 ## About
