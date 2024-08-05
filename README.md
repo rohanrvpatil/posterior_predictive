@@ -12,7 +12,11 @@
 [Upwork gig link](https://www.upwork.com/jobs/~01e8bd802823c9cd1d)
 
 ## Screenshots:
+![LSTM model fitting the data](https://github.com/user-attachments/assets/3d74e39c-0714-41bb-a10f-c15ba86bf73b)
 
+![Evaluation metrics for LSTM](https://github.com/user-attachments/assets/bf068d11-081e-4294-bcfb-b00659a67f86)
+
+![LSTM 90-day prediction](https://github.com/user-attachments/assets/045f760b-767d-4d8e-8922-812437d3e400)
 
 ## Insights obtained:
 **Note: This section of the README includes only my learnings from project implementation.**
