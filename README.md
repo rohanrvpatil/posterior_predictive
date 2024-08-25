@@ -6,13 +6,10 @@
 - [Screenshots](#screenshots)
 - [Insights obtained](#insights-obtained)
 
-
 ## About:
-**Description:** needs to add a 90-day prediction in posterior predictive distribution
+**Description:** 90-day prediction in posterior predictive distribution
 
 **Models implemented:** ARIMA, LSTM, XGBoost models.
-
-**Upwork gig link:** [Upwork gig link](https://www.upwork.com/jobs/~01e8bd802823c9cd1d)
 
 **Datasets used:**
 
